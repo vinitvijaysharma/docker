@@ -1,4 +1,4 @@
-# docker file for 
+# docker file for PHP 7.4 and Laravel
 Docker image for PHP7.4 and Laravel with Apache.
 
 Run it like you would:

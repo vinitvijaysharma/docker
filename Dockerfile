@@ -3,7 +3,6 @@ MAINTAINER vinit sharma <vinitatmail@gmail.com>
 
 ENV OS_LOCALE="en_US.UTF-8"
 ENV TERM=linux
-
 ENV LANG=${OS_LOCALE} \
     LANGUAGE=${OS_LOCALE} \
     LC_ALL=${OS_LOCALE} \
